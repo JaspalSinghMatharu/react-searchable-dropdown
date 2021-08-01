@@ -7,8 +7,8 @@ No dependencies needed.
  - Multiselect Dropdown
  - Multiselect searchable Dropdown
 
-## Demo
-[React Searchable Dropdown](https://jaspalsinghmatharu.github.io/react-searchable-dropdown/)
+## Source Code
+[React Searchable Dropdown](https://github.com/JaspalSinghMatharu/react-searchable-dropdown/blob/master/src/components/SelectDropdown.js/)
 
 
 ## To view the project clone the repository
@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 	 `Eg: const colorData = [{color: red}, {color: green}, {color: blue}]`
 
 2. **label** : This prop is required when the type of data passed is array of objects, the key passed in this will work as the key for the search query in the searchable dropdown and also while binding data in the dropdown.
-	- Eg: For the above data label will be ***color***  ( See [demo](https://jaspalsinghmatharu.github.io/react-searchable-dropdown/) for more info ).
+	- Eg: For the above data label will be ***color***.
 
 3. **searchable** : Boolean value to define if the dropdown will be searchable or not.
 4.  **placeholder** : Placeholder text for the searchable input.
