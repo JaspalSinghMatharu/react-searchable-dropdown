@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-searchable-dropdown/static/css/main.f903a3db.chunk.css",
+    "main.js": "/react-searchable-dropdown/static/js/main.531d181f.chunk.js",
+    "main.js.map": "/react-searchable-dropdown/static/js/main.531d181f.chunk.js.map",
+    "runtime-main.js": "/react-searchable-dropdown/static/js/runtime-main.958dc4c5.js",
+    "runtime-main.js.map": "/react-searchable-dropdown/static/js/runtime-main.958dc4c5.js.map",
+    "static/js/2.9a2d2b8f.chunk.js": "/react-searchable-dropdown/static/js/2.9a2d2b8f.chunk.js",
+    "static/js/2.9a2d2b8f.chunk.js.map": "/react-searchable-dropdown/static/js/2.9a2d2b8f.chunk.js.map",
+    "index.html": "/react-searchable-dropdown/index.html",
+    "static/css/main.f903a3db.chunk.css.map": "/react-searchable-dropdown/static/css/main.f903a3db.chunk.css.map",
+    "static/js/2.9a2d2b8f.chunk.js.LICENSE.txt": "/react-searchable-dropdown/static/js/2.9a2d2b8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958dc4c5.js",
+    "static/js/2.9a2d2b8f.chunk.js",
+    "static/css/main.f903a3db.chunk.css",
+    "static/js/main.531d181f.chunk.js"
+  ]
+}
